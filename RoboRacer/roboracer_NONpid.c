@@ -1,4 +1,9 @@
-#define F_CPU 12000000UL
+/*
+ * Created: 10/3/2013 2:04:17 PM
+ *  Author: Danny
+ */ 
+
+ #define F_CPU 12000000UL
 #define LCD_DATA PORTB		
 #define ctrl PORTD
 #define en PD2		
